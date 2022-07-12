@@ -39,4 +39,5 @@
 8. then push the three commits 
 
 9. check that the three commits are present by using the appropriate command from the terminal to display the logs.
+11. revert the commit that changed the name of `<h1>` `</h1>`
 10. copy the repository link and send it.
