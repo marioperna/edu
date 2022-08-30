@@ -10,4 +10,4 @@ It just wants to be a concise and, as far as possible, clear reference for those
 
 
 Atuhors:Kiara Bici
-        Arlind Kojanaj, <PUT YOUR NAME WITHOUT REMOVING OTHERS, PLEASE>
+        Arlind Kojanaj, <Merinela Cala>
